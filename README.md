@@ -18,4 +18,14 @@ column | description
 8. employee_residence : Employee's primary country of residence in during the work year as an ISO 3166 country code.
 9. remote_ratio	: The overall amount of work done remotely, possible values are as follows: 0 No remote work (less than 20%) 50 Partially remote 100 Fully remote (more than 80%).
 10. company_location	: The country of the employer's main office or contracting branch as an ISO 3166 country code.
-11. The average number of people that worked for the company during the year: S less than 50 employees (small) M 50 to 250 employees (medium) L more than 250 employees (large).
+11. company_size : The average number of people that worked for the company during the year: S less than 50 employees (small) M 50 to 250 employees (medium) L more than 250 employees (large).
+
+## SQL Analysis Metrics and Questions
+This analysis focuses on answering key business questions through complex SQL queries:
+1. Effect of Experience: How does the average salary change as experience level increases (EN -> EX)?
+2. Market Trends: What is the average annual salary increase in this industry from 2020 to 2022?
+3. Salary Geography: Which countries offer the highest average salaries (excluding countries with little data)?
+4. Work Flexibility: Do Full Remote jobs have higher, equal, or lower compensation than On-Site jobs?
+5. Most Profitable Roles: What are the top 5 job titles with the highest average salaries?
+
+6. 
