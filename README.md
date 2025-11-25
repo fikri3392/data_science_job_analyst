@@ -1,10 +1,12 @@
 # data_science_job_analyst
 a simple project in SQL to analyze data science job using a dataset from kaggle.
+## Project Overview
+This project is part of the Data Analysis using SQL portfolio, which aims to explore compensation trends in the global Data Science industry between 2020 and 2022. The analysis focuses on key factors influencing salaries, such as experience level, company location, and remote ratio.
 
-data source : https://www.kaggle.com/datasets/ruchi798/data-science-job-salaries
-tools : mySQL
+## data source : https://www.kaggle.com/datasets/ruchi798/data-science-job-salaries
+## tools : mySQL
 
-table description:
+## table description:
 column | description
 1. work_year : The year the salary was paid.
 2. experience_level	: The experience level in the job during the year with the following possible values: EN Entry-level / Junior MI Mid-level / Intermediate SE Senior-level / Expert EX Executive-level / Director.
