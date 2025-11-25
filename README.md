@@ -1,9 +1,12 @@
 # data_science_job_analyst
 a simple project in SQL to analyze data science job using a dataset from kaggle.
+
 ## Project Overview
 This project is part of the Data Analysis using SQL portfolio, which aims to explore compensation trends in the global Data Science industry between 2020 and 2022. The analysis focuses on key factors influencing salaries, such as experience level, company location, and remote ratio.
 
-## data source : https://www.kaggle.com/datasets/ruchi798/data-science-job-salaries
+## data source : 
+https://www.kaggle.com/datasets/ruchi798/data-science-job-salaries
+
 ## tools : mySQL
 
 ## table description:
@@ -28,4 +31,5 @@ This analysis focuses on answering key business questions through complex SQL qu
 4. Work Flexibility: Do Full Remote jobs have higher, equal, or lower compensation than On-Site jobs?
 5. Most Profitable Roles: What are the top 5 job titles with the highest average salaries?
 
-6. 
+## Key Insights
+Here are some key insights identified from the SQL query execution:
