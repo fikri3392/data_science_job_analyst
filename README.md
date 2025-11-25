@@ -33,7 +33,7 @@ This analysis focuses on answering key business questions through complex SQL qu
 2. Market Trends: What is the average annual salary increase in this industry from 2020 to 2022?
 3. Salary Geography: Which countries offer the highest average salaries (excluding countries with little data)?
 4. Work Flexibility: Do Full Remote jobs have higher, equal, or lower compensation than On-Site jobs?
-5. Most Profitable Roles: What are the top 5 job titles with the highest average salaries?
+5. Most Profitable Roles: What are the top 10 job titles with the highest average salaries?
 
 ## Key Insights
 Here are some key insights identified from the SQL query execution:
