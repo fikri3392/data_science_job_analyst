@@ -30,10 +30,10 @@ https://www.kaggle.com/datasets/ruchi798/data-science-job-salaries
 ## SQL Analysis Metrics and Questions
 This analysis focuses on answering key business questions through complex SQL queries:
 1. Which country has the highest salaries for data analysis jobs?
-2. Average salaries at each level in the US.
+2. Average salaries by job level in the US.
 3. Average salaries year over year.
 4. Composition of remote work ratios in the US.
-5.
+5. Average salaries by work style in the US.
 
 ## Key Insights
 Here are some key insights identified from the SQL query execution:
