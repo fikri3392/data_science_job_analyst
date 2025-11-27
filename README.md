@@ -37,3 +37,12 @@ This analysis focuses on answering key business questions through complex SQL qu
 
 ## Key Insights
 Here are some key insights identified from the SQL query execution:
+| Findings | Decriptions | Key Number |
+| :--- | :--- | :--- |
+| **1. Company location** | Financial Data Analyst in USA get hightest annual salary in average.| $450000 | 
+| **2. Average Salary** | The highest average salary increase was from senior SE level to executive EX with a 60% increase. | EN=$93,112.90; MI=$125,780.21; SE=$151,527.63; EX= $243,742.19|
+| **3. Salary Trends** | From 2020 to 2021, the average salary decreased by 0.88%, then from 2021 to 2022, the average salary increased by 2.17%. | 2020=$143,251.27; 2021=$141,990.99; 2022=$145,066.25 |
+| **4. Work Flexibility** | 74.93% of employees in the US are remote employees, while only 19.44% work on-site. | Remote=266; hybrid=20; On-site=69 |
+| **5. Remote Employee** | remote employees earn 6.38% more than on-site employees. | Remote=$146,624.24; hybrid=$131,379.45; On-site=$137,825.81 |
+
+---
